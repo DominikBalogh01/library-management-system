@@ -6,7 +6,7 @@ Egy teljeskörű, adatbázis-alapú könyvtári nyilvántartó rendszer **PHP + 
 Könyvek hozzáadása, keresése, listázása — reszponzív, hover effektusok, árnyékok.
 
 
-<img width="1919" height="962" alt="Screenshot 2025-11-14 2235034" src="https://github.com/user-attachments/assets/7219a9f7-2986-450c-8072-b3a3e776c4a1" />
+<img width="1919" height="967" alt="Screenshot 2025-11-14 12230357" src="https://github.com/user-attachments/assets/69cb1eea-6912-46ee-9247-c72da6a522ab" />
 
 ## Funkciók
 - Könyv hozzáadása (cím, szerző, kiadás éve, műfaj)
