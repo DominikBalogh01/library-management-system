@@ -24,10 +24,10 @@ Könyvek hozzáadása, keresése, listázása — reszponzív, hover effektusok,
 ## Telepítés (XAMPP)
 
 1. Indítsd el az **Apache**-et és **MySQL**-t XAMPP-ban
-2. Hozz létre adatbázist: `library_db`
+2. Hozz létre adatbázist: `konyvtar`
 3. Importáld a `database.sql` fájlt (ha van)
-4. Másold a fájlokat: `htdocs/library-management-system`
-5. Nyisd meg: `http://localhost/library-management-system`
+4. Másold a fájlokat: `htdocs/konyvtar`
+5. Nyisd meg: `http://localhost/konyvtar`
 
 ## Élő demo
 Csak futtasd XAMPP-pal!
