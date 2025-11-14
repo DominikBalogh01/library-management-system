@@ -19,7 +19,7 @@ Könyvek hozzáadása, keresése, listázása — reszponzív, hover effektusok,
 - **PHP** – backend logika
 - **MySQL** – adatbázis (XAMPP)
 - **HTML/CSS** – reszponzív dizájn, hover effektek
-- **7 PHP fájl + 1 CSS**
+- **6 PHP fájl + 1 CSS**
 
 ## Telepítés (XAMPP)
 
